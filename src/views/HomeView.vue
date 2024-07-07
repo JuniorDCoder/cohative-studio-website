@@ -31,6 +31,34 @@ import SideNav from '@/components/SideNav.vue'
             beautiful but also connect deeply with the hearts and minds of your customers.
           </p>
         </div>
+        <div class="w-full bg-secondary h-96"></div>
+        <div class="flex flex-col items-start w-1/3 py-12 ml-60 text-dark">
+          <h1 class="my-4 text-3xl font-bold">Our Core Value</h1>
+          <div class="flex flex-col text-2xl">
+            <div class="mt-1">
+              <span class="">Cohesion:</span> We believe in the strength of a unified vision. We
+              work collaboratively with our clients to ensure all elements of their brand identity
+              seamlessly come together.
+            </div>
+            <div class="mt-9">
+              Clarity: We strive for clear communication in everything we do. Our designs are
+              visually impactful and our narratives are easy to understand.
+            </div>
+            <div class="mt-9">
+              Creativity: We are passionate about pushing boundaries and exploring new ideas. We
+              bring a fresh perspective to every project.
+            </div>
+            <div class="mt-9">
+              Connection: We believe in the power of storytelling to build meaningful connections
+              between brands and their audiences.
+            </div>
+
+            <div class="mt-9">
+              Collaboration: We value teamwork and believe the best results come from working
+              together with our clients and each other.
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </BaseLayout>
