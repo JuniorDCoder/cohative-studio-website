@@ -1,0 +1,15 @@
+/* App.vue or styles.css */
+#nprogress .bar {
+  background: #f7f7f7; /* Change the color of the progress bar */
+}
+
+#nprogress .peg {
+  box-shadow:
+    0 0 10px #1b1a1c,
+    0 0 5px #1b1a1c; /* Change the shadow color */
+}
+
+#nprogress .spinner-icon {
+  border-top-color: #1b1a1c;
+  border-left-color: #1b1a1c;
+}
