@@ -1,7 +1,7 @@
 <template>
   <header>
     <div
-      class="flex flex-row items-center justify-center w-full space-x-9 text-primary bg-secondary h-9"
+      class="fixed flex flex-row items-center justify-center w-full space-x-5 md:space-x-9 text-primary bg-secondary h-9"
     >
       <RouterLink to="/" class="text-white">X(Twitter)</RouterLink>
       <RouterLink to="" class="text-white">Instagram</RouterLink>
@@ -11,4 +11,3 @@
   </header>
 </template>
 <script setup></script>
-<style lang=""></style>

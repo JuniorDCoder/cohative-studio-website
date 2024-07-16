@@ -5,11 +5,12 @@ import NProgress from 'nprogress'
 import 'nprogress/nprogress.css'
 import './index.css'
 import './assets/css/progress.css'
+import '@fortawesome/fontawesome-free/css/all.min.css'
 
 const app = createApp(App)
 
 // Configure NProgress (optional)
-NProgress.configure({ showSpinner: false })
+NProgress.configure({ showSpinner: true })
 
 router.beforeEach((to, from, next) => {
   document.title = to.meta.title || 'Cohative Studio'
