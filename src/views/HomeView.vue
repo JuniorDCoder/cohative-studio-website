@@ -22,7 +22,7 @@ import SideNav from '@/components/SideNav.vue'
 
         <div class="w-full bg-secondary h-96"></div>
         <div
-          class="flex flex-col items-center w-5/6 py-5 ml-9 md:py-12 md:w-1/3 md:items-start md:ml-60 text-dark"
+          class="flex flex-col w-5/6 py-5 ml-9 md:py-12 md:w-1/3 md:items-start md:ml-60 text-dark"
         >
           <h1 class="my-4 text-3xl font-bold">Mission</h1>
           <p class="text-2xl">
@@ -37,7 +37,7 @@ import SideNav from '@/components/SideNav.vue'
         </div>
         <div class="w-full bg-secondary h-96"></div>
         <div
-          class="flex flex-col items-center w-5/6 py-5 ml-9 md:py-12 md:w-1/3 md:items-start md:ml-60 text-dark"
+          class="flex flex-col w-5/6 py-5 ml-9 md:py-12 md:w-1/3 md:items-start md:ml-60 text-dark"
         >
           <h1 class="my-4 text-3xl font-bold">Our Core Value</h1>
           <div class="flex flex-col text-2xl">
